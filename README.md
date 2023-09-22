@@ -1,6 +1,6 @@
 **Note**:
 
-- Should you wish to access the corresponding plot data, kindly refer to the "Data" folder. All imagery utilized herein is stored in the "Pictures" folder for your reference. The detailed experiment illustration and data analysis were in corresponding jupyter notebook and experiment program is in "experiment" folder. and weFor instance, the IAT plot data can be located in Data/IAT.csv. Due to some issue, we're not able provide participant infomation like age.
+- Should you wish to access the corresponding plot data, kindly refer to the "Data" folder. All imagery utilized herein is stored in the "Pictures" folder for your reference. The detailed experimentd illustration and data analysis are in corresponding jupyter notebookd and experiment programs are in "experiment" folder. For instance, the IAT plot data can be located in Data/IAT.csv. Due to some issue, we're not able provide participant information like age.
 - The preparation of these notes was undertaken with urgency. Should there be any discrepancies or alternate viewpoints, we are open to constructive criticism and corrections. Please do not hesitate to contact me at: [chen.guoqiu@connect.umac.mo](chen.guoqiu@connect.umac.mo).
 - While we leveraged ChatGPT to craft portions of the textual content, including experimental descriptions, we underscore that pivotal components such as the programming code, detailed experimental delineations, and data analysis underwent meticulous manual development and review, thus assuring paramount precision and reliability.
 
@@ -17,7 +17,7 @@
 - **Results:**
 
   - Across all platforms and tasks, we **replicated the classical experimental effects** with a significant degree of certainty (*p* < .001).
-  - Our **inter-group** comparisons delineated **no substantial group main effects or interaction effects** (*p*s > .10), coupled with diminutive generalized eta squared values (*$\eta^2_g$*s < .12).
+  - Our **inter-group** comparisons delineated **no substantial group main effects or interaction effects** (*p*s > .10), coupled with diminutive generalized eta squared values (eta_g < .12).
 
   <p style="text-align:center;"><img src="Pictures/IAT_Result.png" alt="Mental Rotation Procedure" width="1000" /></p>
   <p style="text-align:center;"><img src="Pictures/Mental_Rotation_Result.png" alt="Mental Rotation Procedure" width="1000" /></p>
