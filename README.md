@@ -42,6 +42,6 @@ Emerging as a **versatile, unified service hub**, it amalgamates online psycholo
 
 ## 2.2 Pavlovia
 
-*[Pavlovia](https://pavlovia.org)* is an online platform supported by the Psychopy team that is designed for researchers and psychologists. It allows researchers to create, share, and run experiments online. *[Pavlovia](pavlovia.org)* is particularly **well-integrated with Psychopy**, a popular open-source software for creating psychology experiments, allowing users to easily convert their Psychopy experiments into online studies.
+*[Pavlovia](https://pavlovia.org)* is an online platform supported by the Psychopy team that is designed for researchers and psychologists. It allows researchers to create, share, and run experiments online. *[Pavlovia](https://pavlovia.org)* is particularly **well-integrated with Psychopy**, a popular open-source software for creating psychology experiments, allowing users to easily convert their Psychopy experiments into online studies.
 
 Researchers can use *[Pavlovia](https://pavlovia.org)* to host and share their experiments, collect data from participants remotely, and analyze the results. This platform has been a valuable tool for psychologists and researchers looking to conduct experiments in a virtual or remote setting, making it easier to reach a broader range of participants and facilitate online data collection.
